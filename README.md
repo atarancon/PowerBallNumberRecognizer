@@ -2,7 +2,8 @@
 
 
 ## System:
- Raspberry pi tested,  but could be any other linux or windows machine  
+ * Raspberry pi tested
+ * Could be any other linux or windows machine  
 
 ## Requirements: 
 * Library : OpenCV, Tessarac, imutils,  PIL 
