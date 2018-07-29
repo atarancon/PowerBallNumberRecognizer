@@ -3,7 +3,7 @@
 
 System: Raspberry pi  
 
-##Requirements: 
+## Requirements: 
 Library : Opencv, Tessarac, imutils,  PIL 
 Language: Python 2.0 
 
