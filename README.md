@@ -13,7 +13,7 @@
  To be able to identify and recognize the 5 numbers in a single row of a PowerBall ticket. 
 
 ## Method:
- Use various filters to islote spicific feature for extraction and  then recognition with Tessarac  
+ Use various filters to isolate spicific feature for extraction and  then recognition with Tessarac  
 
 
 ## Usage:
